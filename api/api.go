@@ -5,7 +5,8 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"weather/model"
+
+	"github.com/gross2001/weather/model"
 )
 
 var apiKey = "b7696781ba8d325ebc82c5f609f05210"
