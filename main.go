@@ -4,9 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	//	"weather/api"
-
-	"github.com/gross2001/golangTestTasks/weather/api"
+	"github.com/gross2001/weather/api"
 )
 
 func main() {
